@@ -26,6 +26,7 @@ body {
     border-radius: 0.80rem ;
     margin-top: 1.3rem;
     width: min(90%);
+    height: min(90%);
     object-fit: cover;
 }
 .desing img:hover {

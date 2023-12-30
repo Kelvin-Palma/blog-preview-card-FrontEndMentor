@@ -22,13 +22,14 @@ body {
 .card:hover {
     filter: drop-shadow(1rem 1rem);
 }
-.desing img {
+.illustration {
     border-radius: 0.80rem ;
     margin-top: 1.3rem;
     width: min(90%);
+    height: min(90%);
     object-fit: cover;
 }
-.desing img:hover {
+.illustration:hover {
     transform: scale(1.02);
 }
 .info {

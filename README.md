@@ -16,7 +16,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](/assets/images/desktop.jpg.jpg)
+- Desktop
+  
+![](/assets/images/desktop.jpg)
+
+- Mobile
+
 ![](/assets/images/mobile.jpg)
 
 ### Links
